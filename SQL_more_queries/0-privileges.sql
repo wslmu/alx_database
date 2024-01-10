@@ -1,3 +1,4 @@
+
 -- 0-privileges.sql
 
 -- Grant privileges for user_0d_1
